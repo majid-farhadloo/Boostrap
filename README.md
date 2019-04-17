@@ -13,4 +13,4 @@ This repository has branches for each of the videos in the course. You can use t
 5. Run `> gulp` to start live preview server
 
 
-install node-modules in order to work with this.
+install node-modules in order to work with this..
